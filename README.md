@@ -43,7 +43,7 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/GawrGura_YHC" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://twitter.com/GawrGura_YHC" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="twitter" height="30" width="30" /></a>
 <a href="mailto:3379444580@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
